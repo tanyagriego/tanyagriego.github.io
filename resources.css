@@ -1,0 +1,56 @@
+html {
+}
+  header {
+    font-family: helvetica;
+    font-size: 60px;
+    color: grey;
+    text-align: center;
+  }
+  nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: grey;
+    text-align: center;
+  }
+
+  nav a {
+    padding: 30px;
+    color: white;
+    font-family: helvetica;
+    font-size: 30px;
+    }
+  a:link {
+      text-decoration: none;
+    }
+  img {
+    display: block;
+    width: 1000px;
+    border: 80px;
+    border-color: grey;
+
+  }
+  div{
+    width: 400;
+    margin: 0 auto;
+  }
+  #imagebox {
+    display: flex;
+    justify-content: center;
+  }
+  p {
+    font-size: 20px;
+    color: grey;
+    display: block;
+  }
+  li a {
+    color: grey;
+    font-size: 20px;
+
+  }
+  footer {
+    color: hotpink;
+    font-family: monospace;
+  }
+  span {
+    font-weight: bold;
+  }
